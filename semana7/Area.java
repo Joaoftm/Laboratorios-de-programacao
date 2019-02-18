@@ -1,0 +1,5 @@
+
+public enum Area {
+    GERAL, LICENCAS, APOIO_JURIDICO, 
+    GREVES, LITIGIOS, CONCURSOS;
+}
