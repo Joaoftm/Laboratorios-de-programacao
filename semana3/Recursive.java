@@ -1,8 +1,5 @@
 
-/**
- * classe de recursao
- * @author joao miranda n47143
- * @date 16 Mar 2018
+
  *
  */
 public class Recursive {
