@@ -1,6 +1,6 @@
 /**
  * Classe imutavel para representar um par de elementos ordenado
- * @author Joao Miranda ; n47143
+ * @author Joao Miranda
  * @date 13 Abr 2018
  */
 public class Par<E, F> {
