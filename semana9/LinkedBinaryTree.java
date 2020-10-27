@@ -7,8 +7,7 @@ import java.util.NoSuchElementException;
  * Also, the class does not implement the Cloneable interface,
  * since there is no need to clone immutable objects.
  *
- * @author Vasco T. Vasconcelos
- * @author Antonia Lopes
+
  * @author updated to be sonarLint sound
  */
 public class LinkedBinaryTree<E> implements BinaryTree<E>, Iterable<E>{
