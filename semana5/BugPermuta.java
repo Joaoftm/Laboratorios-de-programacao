@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @author Joao Miranda n47143
+ * @author Joao Miranda 
  * @date 6 Abril 2018
  * Pede um vector ao utilizador e imprime uma permutacao aleatoria do mesmo 
  */
