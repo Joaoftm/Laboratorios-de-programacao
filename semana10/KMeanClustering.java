@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * Classe KMeanClustering
  * 
- * @author Joao Miranda ; n47143
+ * @author Joao Miranda 
  * @date 11 Maio 2018
  *
  */
