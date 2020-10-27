@@ -3,7 +3,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  * 
- * @author João Miranda n47143
+ * @author João Miranda 
  * @date 18 Maio 2018
  *
  *
