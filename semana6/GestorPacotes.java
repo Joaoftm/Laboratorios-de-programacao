@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Implementa metodos para a criacao de pacotes e operacoes sobre eles
- * @author Joao Miranda ; n47143
+ * @author Joao Miranda 
  * @date 13 Abr 2018
  */
 public class GestorPacotes<E> {
