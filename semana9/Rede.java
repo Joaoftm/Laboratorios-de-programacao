@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * Classe Rede
- * @author Joao Miranda n47143
+ * @author Joao Miranda 
  * @date 4/maio/2018
  *
  */
