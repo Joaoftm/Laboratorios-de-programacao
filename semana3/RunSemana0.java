@@ -5,7 +5,7 @@
  * Exemplo de como ler um ficheiro de inteiros (um por linha),
  * processar o seu conteudo, e escrever o resultado noutro ficheiro.
  *
- * @author ASouto, adaptado de Isabel Nunes 
+ 
  *
  */
 public class RunSemana0 {
