@@ -1,7 +1,7 @@
 /**
  * Classe Associado
  * 
- * @author Joao Miranda n 47143;
+ * @author Joao Miranda 
  * @date 20 Abr 2018
  *
  */
