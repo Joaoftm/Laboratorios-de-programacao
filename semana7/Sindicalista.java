@@ -1,6 +1,6 @@
 /**
  * Classe que representa um sindicalista
- * @author Joao Miranda n47143
+ * @author Joao Miranda 
  * @date 20 Abr 2018
  *
  */
