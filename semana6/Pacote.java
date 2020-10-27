@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Um pacote eh uma estrutura de dados que armazena um conjunto de items.
- * @author Joao Miranda ; n 47143
+ * @author Joao Miranda 
  * @date 13 Abr 2018
  * @param <E> O tipo dos items
  */
