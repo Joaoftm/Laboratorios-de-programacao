@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author marco
+ * @author 
  *
  */
 public class LeitorDeArvore {
