@@ -4,7 +4,7 @@ import java.util.Iterator;
 /**
  * Classe Cluster
  * 
- * @author Joao Miranda ; n47143
+ * @author Joao Miranda ; 
  * @date 11 Maio 2018
  *
  */
