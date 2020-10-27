@@ -4,7 +4,7 @@
  *
  * @param <E> The type of the elments in this stack.
  *
- * @author Vasco T. Vasconcelos
+ * @author 
  */
 public class ArrayStack<E> implements Cloneable {
 
