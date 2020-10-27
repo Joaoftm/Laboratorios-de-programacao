@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Joao Miranda; n 47143
+ * @author Joao Miranda; 
  * @date 8 Abril 2018
  *
  */
