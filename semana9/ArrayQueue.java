@@ -7,8 +7,7 @@ import java.util.NoSuchElementException;
  * @param <E>
  *            The type of the elements in the queue.
  *
- * @author Koffman and Wolgang
- * @author Vasco T. Vasconcelos
+
  * @version $Id: ArrayQueue.java 494 2009-04-02 09:52:01Z vv $
  * modified by respicio and mal
  */
